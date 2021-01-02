@@ -1,0 +1,2 @@
+下载完依赖之后npm install 
+后台应用启动(gzhipin-server)npm start) 前台应用(gzhipin-client)启动(npm start)
